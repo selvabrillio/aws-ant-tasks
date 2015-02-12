@@ -2,6 +2,10 @@ AWS Java Ant Tasks
 ==================
 
 Table of Contents
+AWS Java Ant Tasks
+==================
+
+Table of Contents
 -----------------
 * [General Usage](https://github.com/awslabs/aws-ant-tasks#usage-information)
 * [Amazon S3 Tasks](https://github.com/awslabs/aws-ant-tasks#s3-task-usage-guide)
